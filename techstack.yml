@@ -2,7 +2,7 @@ repo_name: hicmtrex/t3-turbo
 report_id: a772515f5809f3b4ae7c8f10e3553a46
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:17:25+00:00'
+timestamp: '2024-02-29T19:10:14+00:00'
 requested_by: hicmtrex
 provider: github
 branch: main
@@ -65,7 +65,7 @@ tools:
   last_updated_by: hichem
   last_updated_on: 2023-01-26 03:15:31.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.0.5
   open_source: true
@@ -221,7 +221,7 @@ tools:
   last_updated_by: hichem
   last_updated_on: 2023-01-26 03:15:31.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.3
   license: MIT
